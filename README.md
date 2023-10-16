@@ -27,7 +27,7 @@ We welcome contributions from the community. Please read our [Code of Conduct](#
 
 ## License
 
-This project is licensed under the [Your License Name] License. See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](LICENSE) file for details.
 
 ## Code of Conduct
 
