@@ -1,7 +1,5 @@
 # Age and Name Question
 
-A brief description of your project.
-
 ## Table of Contents
 
 - [Installation](#installation)
